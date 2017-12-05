@@ -1,5 +1,6 @@
 local os = os
 local math = math
+local io = io
 
 math.randomseed(os.time())
 
