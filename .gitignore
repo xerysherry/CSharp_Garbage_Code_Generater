@@ -1,0 +1,7 @@
+# IDE files
+.vs
+.vscode
+.idea
+
+# Output folder
+garbage
